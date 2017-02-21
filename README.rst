@@ -1,10 +1,11 @@
+paAPI
+=====
+
+=====================================================================
 Notice: This module is depreciated in favour of ingrammicro's osaAPI_
----------------------------------------------------------------------
+=====================================================================
 
 .. _osaAPI: https://github.com/ingrammicro/osaAP
-
-paAPI
-========        
 
 A python client for the Parallels Operations Automation (POA) and Parallels Business Automation Enterprise (PBA) APIs.
 
